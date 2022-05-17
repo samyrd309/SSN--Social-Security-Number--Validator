@@ -14,7 +14,7 @@
 ## Historias de Usuario
 
 ### User story 1
-* * As a user, I want to be able to insert an SSN code, to validate my code.
+* As a user, I want to be able to insert an SSN code, to validate my code.
 
 ## Criterios de Aceptacion
 --- 
