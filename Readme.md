@@ -52,3 +52,5 @@ $ cd ../Requerimiento, Criterios de aceptacion,, casos de prueba
 
 * [User Manual](/Documentos/UserManual)
 
+* [Link de videos](https://www.youtube.com/playlist?list=PLS1EHApfBXyg41UeAudJ1uDp5UBYVTHK-)
+
